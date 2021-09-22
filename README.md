@@ -26,11 +26,11 @@ Data was collected from the Stanford Dog Dataset. The dataset came with 8351 dog
 A baseline model was made using convolutional layers, max pooling, and dropouts to classify the 133 classes. With my baseline model I was able to achieve an accuracy rate of 3.9%. Then transfer learning was applied to the dataset. I used 3 different methods of transfer learning: VGG16, ResNet50, and InceptionV3. Regularization with weight decay or L2, and dropout rates were introduced to the algorithm to reduce overfitting. VGG16 resulted in an accuracy of 76.3%, ResNet50 resulted in an
 accuracy of 80.7%, and finally InceptionV3 resultedin an accuracy of 81.3%. Since InceptionV3 gave me the best score, I used InceptionV3 to produce the dog classifier alogrithm. Here are some of the image results:
 
-![dog1](Deliverables/1.png)
+![dog1](results1.png)
 
-![dog2](Deliverables/2.png)
+![dog2](results2.png)
 
-![dog3](Deliverables/3.png)
+![dog3](results3.png)
 
 
 ### Tools
