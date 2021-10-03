@@ -1,9 +1,7 @@
 ## Who Let The Dogs Out?
 
 Connie Xiao
-
---- 
-
+ 
 **A Dog Breed Identifier with Deep Learning and Computer Vision**
 
 
